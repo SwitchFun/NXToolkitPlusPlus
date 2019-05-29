@@ -6,3 +6,6 @@ SwitchFun was given permission by the original repo owner @lordapple or (LORDAPP
 <br\>
 As the repo is gone, all source is ours. ("SwitchFun")
 <br\>
+<br\>
+<h1>Licensing:</h1>
+SwitchFun's NXToolkit++ is licensed under <strong>GPL 3.0</strong> any forks must include that LICENSE and comply.

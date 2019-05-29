@@ -44,6 +44,7 @@ DATA		:=	data
 INCLUDES	:=	include
 APP_TITLE	:= NXToolkit++
 APP_AUTHOR	:= SwitchFun
+APP_VERSION	:= 0.1 beta
 #ROMFS	:=	romfs
 
 #---------------------------------------------------------------------------------
